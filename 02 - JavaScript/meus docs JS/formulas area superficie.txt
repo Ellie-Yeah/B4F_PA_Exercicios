@@ -1,0 +1,47 @@
+GitHub Copilot
+Aqui está uma lista com as fórmulas para calcular as áreas das superfícies de sólidos geométricos:
+
+1. Cubo
+Área Total: ( A = 6 \cdot a^2 )
+Onde ( a ) é o comprimento da aresta.
+
+2. Paralelepípedo
+Área Total: ( A = 2 \cdot (ab + bc + ac) )
+Onde ( a ), ( b ), e ( c ) são as dimensões do paralelepípedo.
+
+3. Cilindro
+Área Total: ( A = 2 \cdot \pi \cdot r \cdot h + 2 \cdot \pi \cdot r^2 )
+Onde ( r ) é o raio da base e ( h ) é a altura.
+
+
+4. Cone
+Área Total: ( A = \pi \cdot r \cdot (r + g) )
+Onde ( r ) é o raio da base e ( g ) é a geratriz.
+
+5. Esfera
+Área Total: ( A = 4 \cdot \pi \cdot r^2 )
+Onde ( r ) é o raio da esfera.
+
+6. Pirâmide
+Área Total: ( A = A_{\text{base}} + A_{\text{lateral}} )
+Onde ( A_{\text{base}} ) é a área da base e ( A_{\text{lateral}} ) é a soma das áreas das faces laterais.
+
+7. Prisma
+Área Total: ( A = 2 \cdot A_{\text{base}} + A_{\text{lateral}} )
+Onde ( A_{\text{base}} ) é a área da base e ( A_{\text{lateral}} ) é a soma das áreas das faces laterais.
+
+8. Tetraedro Regular
+Área Total: ( A = \sqrt{3} \cdot a^2 )
+Onde ( a ) é o comprimento da aresta.
+
+9. Octaedro Regular
+Área Total: ( A = 2 \cdot \sqrt{3} \cdot a^2 )
+Onde ( a ) é o comprimento da aresta.
+
+10. Dodecaedro Regular
+Área Total: ( A = 3 \cdot \sqrt{25 + 10 \cdot \sqrt{5}} \cdot a^2 )
+Onde ( a ) é o comprimento da aresta.
+
+11. Icosaedro Regular
+Área Total: ( A = 5 \cdot \sqrt{3} \cdot a^2 )
+Onde ( a ) é o comprimento da aresta.

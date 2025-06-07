@@ -1,0 +1,31 @@
+AQUI ESTÃO AS FÓRMULAS MATEMÁTICAS PARA CALCULAR A ÁREA DA SUPERFÍCIE DOS SÓLIDOS GEOMÉTRICOS MAIS COMUNS:
+
+1. ESFERA
+Área da superfície:
+  A = 4 × π × r²
+onde r é o raio.
+
+2. CUBO
+Área da superfície:
+  A = 6 × a²
+onde a é o comprimento da aresta.
+
+3. PARALELEPÍPEDO (RETÂNGULO SÓLIDO)
+Área da superfície:
+  A = 2 × (ab + ac + bc)
+onde a, b e c são os comprimentos dos lados.
+
+4. CILINDRO
+Área da superfície:
+  A = 2 × π × r × (r + h)
+onde r é o raio da base e h é a altura.
+
+5. CONE
+Área da superfície:
+  A = π × r × (r + g)
+onde r é o raio da base e g é a geratriz (lado inclinado).
+
+6. PIRÂMIDE DE BASE QUADRADA
+Área da superfície:
+  A = a² + 2 × a × l
+onde a é o lado da base e l é a altura inclinada (apotema lateral).
